@@ -1,1 +1,2 @@
-This file is used for check Merge conflit
+This file is used for check Merge conflit 
+Master branch copy of file
